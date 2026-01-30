@@ -54,4 +54,3 @@ This dataset is built into Scikit-learn, so no external download is required.
 - ✔ Sample digit predictions  
 
 
-## 📁 Project Structure
